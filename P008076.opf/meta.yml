@@ -5,11 +5,13 @@ source_metadata:
   title: གཏིང་སྐྱེས་དགོན་པ་བྱང་སྤྲུལ་སྐུའི་འཁྲུངས་རབས་རྣམ་ཐར་
   author: ''
   volumes:
-    83f6a96359744140833954a3d91d6be4:
+    bc84e228a68a40528a17ce010f42f64b:
       image_group_id: I1KG1435
-      title: ''
+      title: Volume 1 of gting skyes dgon pa byang sprul sku'i 'khrungs rabs rnam
+        thar
       volume_number: 1
       total_pages: 72
+      base_file: v001.txt
 ebook_metadata:
   title: གཏིང་སྐྱེས་དགོན་པ་བྱང་སྤྲུལ་སྐུའི་འཁྲུངས་རབས་རྣམ་ཐར་
   author: ''

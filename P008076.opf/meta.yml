@@ -1,5 +1,7 @@
 id: P008076
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2CZ6602
   title: གཏིང་སྐྱེས་དགོན་པ་བྱང་སྤྲུལ་སྐུའི་འཁྲུངས་རབས་རྣམ་ཐར་
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 72
       base_file: v001.txt
-ebook_metadata:
-  title: གཏིང་སྐྱེས་དགོན་པ་བྱང་སྤྲུལ་སྐུའི་འཁྲུངས་རབས་རྣམ་ཐར་
-  author: ''
-  sku: P008076
-  cover: cover.jpg
-  layers:
-  - pagination
